@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serb_Cristiana-Maria_Project", "Serb_Cristiana-Maria_Project.csproj", "{484FF041-1DA8-4F31-BAF1-5E9A1EC01061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoLotModel", "MotoLotModel\MotoLotModel.csproj", "{5FE53147-05DA-4237-A843-1198DC0268C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484FF041-1DA8-4F31-BAF1-5E9A1EC01061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484FF041-1DA8-4F31-BAF1-5E9A1EC01061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484FF041-1DA8-4F31-BAF1-5E9A1EC01061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484FF041-1DA8-4F31-BAF1-5E9A1EC01061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE53147-05DA-4237-A843-1198DC0268C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE53147-05DA-4237-A843-1198DC0268C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE53147-05DA-4237-A843-1198DC0268C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE53147-05DA-4237-A843-1198DC0268C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7847E978-B28E-4201-B035-C8C4CF82EF8B}
+	EndGlobalSection
+EndGlobal
